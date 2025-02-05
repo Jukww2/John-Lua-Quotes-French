@@ -1,4 +1,4 @@
-# John-Lua-Quotes
+# John-Lua-Quotes-French
 
 Extraits apaisants des mémoires de John Lua, *"Mange, Prie, Code"*, pour vous guider à travers vos tribulations de programmation
 
